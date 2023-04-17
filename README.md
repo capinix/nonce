@@ -5,31 +5,18 @@ A command-line utility for reading and writing nonces.
 The utility provides two commands: read and write.
 
 ### Read
+
 The read command displays the nonce in the specified or default nonce file.
 
 Usage:
+
 nonce read [file]
 
 Arguments:
-file - Optional. The file from which to read the nonce. 
-If not provided, the default nonce file will be used.
 
+file - Optional. The file from which to read the nonce. If not provided, the default nonce file will be used.
 
-nonce read [OPTIONS]
-
-nonce write <nonce> [OPTIONS]
-
-### Subcommands
-
-#### `read`
-
-Read the current nonce from a file.
-
-##### Options
-
-- `<file>`: Optional file from which to read the nonce.
-
-#### `write`
+### Write
 
 Write a new nonce to a file.
 
