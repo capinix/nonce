@@ -37,5 +37,12 @@ The default file location is `$HOME/.orga-wallet/nonce`.
 
 Download the source files
 
-``git clone  
+`git clone https://github.com/capinix/nonce.git && cd nonce`
+
+Compile
+
+`cargo build --release`
+
+the executable will be in target/release
+
 
