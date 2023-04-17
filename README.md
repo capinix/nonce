@@ -7,9 +7,12 @@ The utility provides two commands: read and write.
 ### Read
 The read command displays the nonce in the specified or default nonce file.
 
-#### Usage:
+Usage:
 nonce read [file]
 
+Arguments:
+file - Optional. The file from which to read the nonce. 
+If not provided, the default nonce file will be used.
 
 
 nonce read [OPTIONS]
