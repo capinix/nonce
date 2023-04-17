@@ -1,9 +1,7 @@
 # Nonce Utility
-
 A command-line utility for reading and writing nonces.
 
 ## Usage
-
 The utility provides two commands: read and write.
 
 ### Read
