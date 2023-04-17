@@ -21,7 +21,7 @@ Read the current nonce from a file.
 
 ##### Options
 
-- `--file <file>`: Optional file from which to read the nonce. If not provided, the tool will read from the default file location.
+- `<file>`: Optional file from which to read the nonce.
 
 #### `write`
 
@@ -33,7 +33,7 @@ Write a new nonce to a file.
 
 ##### Options
 
-- `--file <file>`: Optional file to write the nonce to. If not provided, the tool will write to the default file location.
+- `<file>`: Optional file to write the nonce to.
 
 ## Default file location
 
