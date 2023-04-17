@@ -10,7 +10,7 @@ The read command displays the nonce in the specified or default nonce file.
 
 Usage:
 
-nonce read [file]
+``nonce read [file]``
 
 Arguments:
 
