@@ -29,6 +29,6 @@ The ``write`` command writes a nonce to the specified or default nonce file.
 - `nonce` - Required. The integer value to write as nonce.
 - `file` - Optional. The file to which to write the nonce. If not provided, the default nonce file will be used.
 
-## Default file location
+### Default file location
 
 The default file location is `$HOME/.orga-wallet/nonce`.
