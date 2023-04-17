@@ -10,11 +10,11 @@ The read command displays the nonce in the specified or default nonce file.
 
 Usage:
 
-``nonce read [file]``
+`nonce read [file]`
 
 Arguments:
 
-file - Optional. The file from which to read the nonce. If not provided, the default nonce file will be used.
+`file` - Optional. The file from which to read the nonce. If not provided, the default nonce file will be used.
 
 ### Write
 
