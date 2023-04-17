@@ -1,17 +1,11 @@
-Nonce Utility
-A command-line utility for reading and writing nonces.
+# Nonce Utility
 
-Usage
-The utility provides two commands: read and write.
+A command-line tool for managing a nonce file.
 
-Read
-The read command displays the nonce in the specified or default nonce file.
+## Features
 
-Usage:
+- Read the current nonce from a file
+- Write a new nonce to a file
 
-shell
-Copy code
-$ nonce read [file]
-Arguments:
+## Usage
 
-file - Optional. The file from which to read the nonce. If not provided, the default nonce file will be used.
