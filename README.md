@@ -6,7 +6,7 @@ The utility provides two commands: read and write.
 
 ### Read
 
-The read command displays the nonce in the specified or default nonce file.
+The `read` command displays the nonce in the specified or default nonce file.
 
 Usage:
 
