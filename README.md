@@ -8,25 +8,23 @@ The utility provides two commands: read and write.
 
 The ``read`` command displays the nonce in the specified or default nonce file.
 
-Usage:
+#### Usage:
 
 `nonce read [file]`
 
-Arguments:
+#### Arguments:
 
 `file` - Optional. The file from which to read the nonce. If not provided, the default nonce file will be used.
 
 ### Write
 
-Write a new nonce to a file.
+The ``write`` command writes a nonce to the specified or default nonce file.
 
-##### Arguments
+#### Usage:
 
-- `<nonce>`: Integer value to write as nonce.
+``nonce write <nonce> [file]``
 
-##### Options
-
-- `<file>`: Optional file to write the nonce to.
+#### Arguments:
 
 ## Default file location
 
