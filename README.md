@@ -32,3 +32,10 @@ The ``write`` command writes a nonce to the specified or default nonce file.
 ### Default file location
 
 The default file location is `$HOME/.orga-wallet/nonce`.
+
+## Installation
+
+Download the source files
+
+``git clone  
+
